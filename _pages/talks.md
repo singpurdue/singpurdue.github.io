@@ -5,56 +5,44 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Overview
+## Overview :microphone:
 
-I have presented my research **in-person** and **online** at various conferences and symposia, often alongside published papers or posters. Key appearances are summarized below.
+I have presented my research **in-person** and **virtually** at multiple conferences and symposiums, typically in tandem with published papers or poster sessions.
 
 ---
 
-## In-Person Presentations
+## In-Person Presentations :handshake:
 
 1. **17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)**  
    *Seoul, South Korea – 2024*  
-   Presented findings on contrastive mmWave-based Human Activity Recognition and adversarial label flipping defenses. Paper accepted in the conference proceedings.
+   - Discussed adversarial label flipping and contrastive mmWave-based HAR.
 
 2. **32nd International Conference on Computer Communications and Networks (ICCCN)**  
    *Honolulu, Hawaii, USA – 2023*  
-   Delivered an in-person talk on `mmLock: User Leaving Detection Against Data Theft via High-Quality mmWave Radar Imaging`.
+   - Delivered “mmLock: User Leaving Detection Against Data Theft via High-Quality mmWave Radar Imaging.”
 
 3. **CERIAS Symposium 2024**  
    *Purdue University, West Lafayette, USA – 2024*  
-   Presented a poster entitled “Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping.”
+   - Poster titled “Securing Contrastive mmWave-based HAR against Adversarial Label Flipping.”
 
 ---
 
-## Virtual Presentations
+## Virtual Presentations :globe_with_meridians:
 
-- **TEHI 2021**  
-  International Conference on Trends in Electronics and Health Informatics (India)  
-  Covered lightweight cryptographic schemes for securing wireless sensor data in agriculture.
+- **TEHI 2021** (India)  
+  - Covered lightweight cryptographic solutions for WSN data in agriculture.
 
-- **ICIEV 2021 / ICIVPR 2021**  
-  Joint conferences in Japan  
-  Showcased a text steganographic scheme based on multilingual approaches for secure data communication.
+- **ICIEV 2021 / ICIVPR 2021** (Japan)  
+  - Presented a multilingual text steganography approach for secure data communication.
 
 - **ICECIT 2021**  
-  International Conference on Electronics, Communications and Information Technology  
-  Introduced a new stegano-cryptographic approach to enhance text data security.
+  - Demonstrated a new stegano-cryptographic method for text data security.
 
 - **TCCE 2020**  
-  International Conference on Trends in Computational and Cognitive Engineering  
-  Presented advanced Bengali text steganography using Unicode and whitespace.
+  - Showcased efficient Bengali text steganography employing Unicode/whitespace.
 
 ---
 
-## Publications & Talks
+## Related Publications
 
-All presented research has accompanying publications (or under review manuscripts) listed in the [Publications](/publications/) section. Each conference talk or poster typically aligns with an accepted paper or in-progress manuscript.
-
----
-
-### Explore More
-
-- **[Publications](/publications/):** Comprehensive record of published and under-review works  
-- **[CV](/cv/):** Full academic and professional background  
-- **[Contact Me](mailto:singha3@purdue.edu):** For any research or collaboration inquiries
+All talks correspond to published or under-review works detailed in the [Publications](/publications/) section. For collaboration, contact me at [singha3@purdue.edu](mailto:singha3@purdue.edu).

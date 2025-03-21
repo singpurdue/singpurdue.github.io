@@ -7,48 +7,46 @@ author_profile: true
 
 ## My Portfolio
 
-Below are some **selected projects** that demonstrate my work in wireless systems, adversarial machine learning, and software development—along with prototypes aimed at practical applications.
+Below are selected projects highlighting my expertise in wireless systems, adversarial machine learning, and software engineering. Each project aims to address practical challenges through innovative solutions.
 
 ---
 
 ## Selected Projects
 
 1. **Deep Dream with VGG16 and DenseNet121**  
-   *(Mar 2023 – Mar 2023)*  
-   - Applied the Deep Dream algorithm with VGG16 and DenseNet121 models to enhance and visualize features in an image of a monkey.  
-   - Implemented creative adaptations by guiding the algorithm with images of bananas and cherries for unique, surreal visual effects.
+   *(March 2023)*  
+   - Implemented Deep Dream algorithms using VGG16 and DenseNet121 to visualize and enhance features in an image of a monkey.  
+   - Employed creative adaptations by guiding the algorithm with banana and cherry images to generate surreal effects.
 
 2. **Audio-Effects-Generator**  
-   *(Aug 2022 – Dec 2022)*  
-   - Developed audio effects using input audio processed through an FRDM-K64 board.  
-   - Achieved effects like ECHO, REVERB, SLAPBACK, PANNING, and CHORUS.  
-   - Utilized Wolfson Pi Audio Card, Keil MDK-ARM, and MATLAB Simulink.  
-   - Aimed to extend the project for wireless and IoT applications.
+   *(August 2022 – December 2022)*  
+   - Developed audio effects using input processed by an FRDM-K64 board.  
+   - Achieved ECHO, REVERB, SLAPBACK, PANNING, and CHORUS, leveraging Wolfson Pi Audio Card, Keil MDK-ARM, and MATLAB Simulink.  
+   - Explored extensions for wireless and IoT contexts.
 
-3. **Self Supervised Contrastive Learning in PyTorch**  
-   *(Oct 2022 – Nov 2022)*  
-   - Created a self-supervised learning model for 3D shape representation using the ShapeNet dataset’s point clouds.  
-   - Employed PyTorch, PyTorch Geometric, and DynamicEdgeConv, with InfoNCE/NT-Xent loss for contrastive learning.  
-   - Achieved effective representation and separation of entities in the embedding space.
+3. **Self-Supervised Contrastive Learning in PyTorch**  
+   *(October 2022 – November 2022)*  
+   - Created a self-supervised learning framework for 3D shape representations using ShapeNet point clouds.  
+   - Leveraged PyTorch Geometric and DynamicEdgeConv with InfoNCE/NT-Xent loss for robust embedding separation.
 
 4. **End-to-End Deep Learning for Potato Blight Disease Classification**  
-   *(Dec 2021 – Apr 2022)*  
-   - Developed a web/mobile application to diagnose potato blight disease using deep learning techniques and convolutional neural networks.
-    
-5. **RyDE**  
-   *(Jan 2019 – Jun 2019)*  
-   - Created a ride-sharing app featuring live GPS location, integrated rider and user apps.  
-   - Utilized Firebase database for the coding environment, plus Java and Android Studio for development.
+   *(December 2021 – April 2022)*  
+   - Built a web/mobile application for diagnosing potato blight disease via deep learning and CNNs.
 
-6. **Smart Wheelchair for Disabled People**  
-   *(Jan 2018 – May 2018)*  
-   - Conceptualized a cost-effective smart wheelchair controllable through hand gestures.  
-   - Aimed at increasing mobility for disabled individuals.
+5. **RyDE**  
+   *(January 2019 – June 2019)*  
+   - Engineered a ride-sharing application featuring live GPS location for riders and drivers.  
+   - Utilized Firebase for real-time data management, Java, and Android Studio for front-end implementation.
+
+6. **Smart Wheelchair for Disabled Individuals**  
+   *(January 2018 – May 2018)*  
+   - Designed a cost-efficient wheelchair controllable through hand gestures.  
+   - Focused on improving mobility solutions for users with physical disabilities.
 
 ---
 
 ## Additional Highlights
 
-- **[Ongoing Research](/publications/#ongoing-research-works):** mmWave-based adversarial attacks & defenses  
-- **[Teaching Experience](/teaching/):** Graduate Teaching Assistant at Purdue (Indianapolis)  
-- **[Full CV](/cv/):** Detailed academic profile, experiences, and awards
+- **[Ongoing Research](/publications/#ongoing-research-works)**: Investigating adversarial attacks & defenses in mmWave systems  
+- **[Teaching Experience](/teaching/)**: Graduate TA for MATLAB-based engineering coursework  
+- **[Full CV](/cv/)**: Complete academic and professional profile

@@ -9,11 +9,11 @@ redirect_from:
 
 # My CV
 
-I maintain a detailed curriculum vitae (CV) in PDF format.  
+I maintain a comprehensive Curriculum Vitae (CV) in PDF format.  
 [**Download My PDF CV**](https://<your-username>.github.io/files/AmitSingha_CV.pdf)
 
 <!-- 
-Commenting out the old auto-generated lists:
+Commenting out any auto-generated sections:
 {% comment %}
 ## Publications
 <ul>

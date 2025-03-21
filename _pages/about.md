@@ -9,7 +9,7 @@ redirect_from:
 
 ## Introduction :wave:
 
-Hello! I am **Amit Singha** :graduation_cap:, a doctoral student in the Elmore Family School of Electrical and Computer Engineering at Purdue University (Indianapolis Campus). My research focuses on mmWave-based wireless systems, adversarial machine learning, and privacy-centric security solutions. I collaborate with the [Purdue Indy Security Lab :shield:](https://www.cerias.purdue.edu/site/people/students/view/3815) to develop robust AI methodologies for next-generation wireless technologies.
+Hello! I am **Amit Singha**, a doctoral student in the Elmore Family School of Electrical and Computer Engineering at Purdue University (Indianapolis Campus). My research focuses on mmWave-based wireless systems, adversarial machine learning, and privacy-centric security solutions. I collaborate with the [Purdue Indy Security Lab :shield:](https://www.cerias.purdue.edu/site/people/students/view/3815) to develop robust AI methodologies for next-generation wireless technologies.
 
 Previously, I served as a Graduate Research Assistant at Purdue University and completed doctoral coursework at Indiana University–Purdue University Indianapolis (IUPUI). My academic background includes an M.Sc. in Computer Science from Jahangirnagar University (JU) and a B.Sc. in Information and Communication Engineering from Bangladesh University of Professionals (BUP).
 

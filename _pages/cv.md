@@ -7,13 +7,14 @@ redirect_from:
   - /resume/
 ---
 
-# My CV
+# My CV :briefcase:
 
 I maintain a comprehensive Curriculum Vitae (CV) in PDF format.  
 [**Download My PDF CV**](https://<your-username>.github.io/files/AmitSingha_CV.pdf)
 
 <!-- 
-Commenting out any auto-generated sections:
+Commenting out auto-generation, if you previously used that:
+
 {% comment %}
 ## Publications
 <ul>
@@ -21,19 +22,6 @@ Commenting out any auto-generated sections:
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
-
-## Talks
-<ul>
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}
-</ul>
-
-## Teaching
-<ul>
-  {% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
+...
 {% endcomment %}
 -->

@@ -14,7 +14,7 @@ site_theme: "default"
 title: "Amit Singha - Academic Website"
 title_separator: "-"
 name: &name "Amit Singha"
-description: &description "PhD Student researching mmWave-based wireless systems & Adversarial ML at Purdue University (Indianapolis)."
+description: &description "PhD Student researching AI driven mmWave-based wireless systems security & Adversarial ML at Purdue University (Indianapolis)."
 url: "https://singpurdue.github.io"       # the base hostname & protocol for your site
 baseurl: ""                               # the subpath of your site, e.g. "/blog" if needed
 repository: "singpurdue/singpurdue.github.io"
@@ -32,7 +32,7 @@ author:
   pronouns:              # e.g. "he/him" or "she/her" if you like
   bio: "PhD Student in Electrical and Computer Engineering focusing on mmWave-based wireless systems, adversarial machine learning, and information security."
   location: "Indianapolis–46202, USA"
-  employer: "Purdue University (Indianapolis Campus)"
+  employer: "Purdue University"
   uri:                   # If you have a personal website other than GitHub Pages, you can place it here.
   email: "singha3@purdue.edu" 
   

@@ -27,7 +27,7 @@ repository: "singpurdue/singpurdue.github.io"
 
 author:
   # Basic info
-  avatar: "images/profile.png"  # e.g. "images/profile.png" if you place a profile pic there
+  avatar: "images/profile.jpg"  # e.g. "images/profile.png" if you place a profile pic there
   name: "Amit Singha"
   pronouns:              # e.g. "he/him" or "she/her" if you like
   bio: "PhD Student in Electrical and Computer Engineering focusing on mmWave-based wireless systems, adversarial machine learning, and information security."

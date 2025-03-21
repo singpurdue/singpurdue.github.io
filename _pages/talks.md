@@ -7,7 +7,7 @@ author_profile: true
 
 ## Overview
 
-I have presented my research both **in person** and **virtually** at various national and international conferences, as well as local symposiums. Below is a summary of these presentations, which typically accompanied published papers or posters.
+I have presented my research **in-person** and **online** at various conferences and symposia, often alongside published papers or posters. Key appearances are summarized below.
 
 ---
 
@@ -15,15 +15,15 @@ I have presented my research both **in person** and **virtually** at various nat
 
 1. **17th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)**  
    *Seoul, South Korea – 2024*  
-   Presented my work on securing contrastive mmWave-based Human Activity Recognition against adversarial label flipping. Research also accepted for publication in the conference proceedings.
+   Presented findings on contrastive mmWave-based Human Activity Recognition and adversarial label flipping defenses. Paper accepted in the conference proceedings.
 
 2. **32nd International Conference on Computer Communications and Networks (ICCCN)**  
    *Honolulu, Hawaii, USA – 2023*  
-   Delivered an in-person talk on “mmLock: User Leaving Detection Against Data Theft via High-Quality mmWave Radar Imaging.”
+   Delivered an in-person talk on `mmLock: User Leaving Detection Against Data Theft via High-Quality mmWave Radar Imaging`.
 
 3. **CERIAS Symposium 2024**  
    *Purdue University, West Lafayette, USA – 2024*  
-   Presented a research poster titled “Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping.”
+   Presented a poster entitled “Securing Contrastive mmWave-based Human Activity Recognition against Adversarial Label Flipping.”
 
 ---
 
@@ -31,30 +31,30 @@ I have presented my research both **in person** and **virtually** at various nat
 
 - **TEHI 2021**  
   International Conference on Trends in Electronics and Health Informatics (India)  
-  Gave a remote presentation on implementing lightweight cryptographic schemes for securing WSN data in agriculture.
+  Covered lightweight cryptographic schemes for securing wireless sensor data in agriculture.
 
 - **ICIEV 2021 / ICIVPR 2021**  
-  Joint 10th International Conference on Informatics, Electronics & Vision and 5th International Conference on Imaging, Vision & Pattern Recognition (Japan)  
-  Presented a text steganographic scheme based on multilingual approaches for secure data communication.
+  Joint conferences in Japan  
+  Showcased a text steganographic scheme based on multilingual approaches for secure data communication.
 
 - **ICECIT 2021**  
   International Conference on Electronics, Communications and Information Technology  
-  Demonstrated a new stegano-cryptographic approach for enhancing text data communication security.
+  Introduced a new stegano-cryptographic approach to enhance text data security.
 
 - **TCCE 2020**  
   International Conference on Trends in Computational and Cognitive Engineering  
-  Showcased research on efficient Bengali text steganography using Unicode and whitespace characters.
+  Presented advanced Bengali text steganography using Unicode and whitespace.
 
 ---
 
-## Note on Publications and Talks
+## Publications & Talks
 
-For each of these conferences or symposia, I also have accompanying **published** (or **under review**) papers listed in the [Publications](/publications/) section. Since *in every conference* my paper was accepted or published, I presented the work either as a **talk** or a **poster** (offline or online).
+All presented research has accompanying publications (or under review manuscripts) listed in the [Publications](/publications/) section. Each conference talk or poster typically aligns with an accepted paper or in-progress manuscript.
 
 ---
 
-### Interested in My Other Work?
+### Explore More
 
-- **[Publications](/publications/):** Full list of journal and conference papers  
-- **[CV](/cv/):** Detailed academic background, research experience, and achievements  
-- Or feel free to contact me at [singha3@purdue.edu](mailto:singha3@purdue.edu)
+- **[Publications](/publications/):** Comprehensive record of published and under-review works  
+- **[CV](/cv/):** Full academic and professional background  
+- **[Contact Me](mailto:singha3@purdue.edu):** For any research or collaboration inquiries

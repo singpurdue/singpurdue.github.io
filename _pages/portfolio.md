@@ -5,48 +5,47 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## My Portfolio
+## My Portfolio :rocket:
 
-Below are selected projects highlighting my expertise in wireless systems, adversarial machine learning, and software engineering. Each project aims to address practical challenges through innovative solutions.
+Below are select projects showcasing my expertise in wireless systems, adversarial ML, and software engineering, each aimed at tackling real-world issues.
 
 ---
 
 ## Selected Projects
 
-1. **Deep Dream with VGG16 and DenseNet121**  
-   *(March 2023)*  
-   - Implemented Deep Dream algorithms using VGG16 and DenseNet121 to visualize and enhance features in an image of a monkey.  
-   - Employed creative adaptations by guiding the algorithm with banana and cherry images to generate surreal effects.
+1. **Deep Dream with VGG16 and DenseNet121** :art:  
+   *(Mar 2023)*  
+   - Implemented Deep Dream to visualize/enhance features in a monkey image.  
+   - Introduced bananas and cherries to guide surreal transformations.
 
-2. **Audio-Effects-Generator**  
-   *(August 2022 – December 2022)*  
-   - Developed audio effects using input processed by an FRDM-K64 board.  
-   - Achieved ECHO, REVERB, SLAPBACK, PANNING, and CHORUS, leveraging Wolfson Pi Audio Card, Keil MDK-ARM, and MATLAB Simulink.  
-   - Explored extensions for wireless and IoT contexts.
+2. **Audio-Effects-Generator** :loud_sound:  
+   *(Aug 2022 – Dec 2022)*  
+   - Created ECHO, REVERB, SLAPBACK, etc. on an FRDM-K64 board.  
+   - Employed Wolfson Pi Audio Card, Keil MDK-ARM, MATLAB Simulink.
 
-3. **Self-Supervised Contrastive Learning in PyTorch**  
-   *(October 2022 – November 2022)*  
-   - Created a self-supervised learning framework for 3D shape representations using ShapeNet point clouds.  
-   - Leveraged PyTorch Geometric and DynamicEdgeConv with InfoNCE/NT-Xent loss for robust embedding separation.
+3. **Self-Supervised Contrastive Learning in PyTorch** :gear:  
+   *(Oct 2022 – Nov 2022)*  
+   - Developed a self-supervised pipeline for 3D shape representation (ShapeNet).  
+   - Used PyTorch Geometric & InfoNCE/NT-Xent for robust embeddings.
 
-4. **End-to-End Deep Learning for Potato Blight Disease Classification**  
-   *(December 2021 – April 2022)*  
-   - Built a web/mobile application for diagnosing potato blight disease via deep learning and CNNs.
+4. **End-to-End Deep Learning for Potato Blight Disease** :seedling:  
+   *(Dec 2021 – Apr 2022)*  
+   - Built a web/mobile application diagnosing potato blight using CNN-based deep learning.
 
-5. **RyDE**  
-   *(January 2019 – June 2019)*  
-   - Engineered a ride-sharing application featuring live GPS location for riders and drivers.  
-   - Utilized Firebase for real-time data management, Java, and Android Studio for front-end implementation.
+5. **RyDE** :taxi:  
+   *(Jan 2019 – Jun 2019)*  
+   - Created a ride-sharing app with real-time GPS tracking.  
+   - Utilized Firebase, Java, Android Studio.
 
-6. **Smart Wheelchair for Disabled Individuals**  
-   *(January 2018 – May 2018)*  
-   - Designed a cost-efficient wheelchair controllable through hand gestures.  
-   - Focused on improving mobility solutions for users with physical disabilities.
+6. **Smart Wheelchair for Disabled Individuals** :wheelchair:  
+   *(Jan 2018 – May 2018)*  
+   - Conceived a low-cost wheelchair controllable via hand gestures.  
+   - Focused on enhancing mobility for users with physical limitations.
 
 ---
 
 ## Additional Highlights
 
-- **[Ongoing Research](/publications/#ongoing-research-works)**: Investigating adversarial attacks & defenses in mmWave systems  
-- **[Teaching Experience](/teaching/)**: Graduate TA for MATLAB-based engineering coursework  
-- **[Full CV](/cv/)**: Complete academic and professional profile
+- **[Ongoing Research](/publications/#ongoing-research-works)**: mmWave adversarial attacks & defenses  
+- **[Teaching Experience](/teaching/)**: 400+ students taught in MATLAB-based courses  
+- **[Full CV](/cv/)**: Comprehensive academic and professional background

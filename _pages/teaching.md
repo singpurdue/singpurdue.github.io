@@ -13,7 +13,7 @@ School of Engineering, Purdue University (Indianapolis Campus)
 - **Course**: ENGR 29700 – MATLAB – Computer Tools for Engineering  
 - Over two semesters, taught **400+ students** across multiple sections  
 - **Responsibilities**:
-  - Grading assignments
-  - Preparing lecture materials and homework
-  - Conducting office hours three times per week
-  - Assisting students with engineering problems and MATLAB programming
+  - Designing and grading assignments
+  - Preparing lecture materials and homework exercises
+  - Holding office hours thrice weekly
+  - Assisting students with MATLAB programming and problem-solving

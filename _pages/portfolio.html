@@ -1,14 +1,71 @@
 ---
-layout: archive
+layout: single
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
 
+<!--
+If you ever want to auto-generate this page from items in `site.portfolio`, 
+uncomment and adjust the loop below. For now, we're replacing it with a 
+static list to reflect your CV's "Selected Projects."
+  
 {% include base_path %}
-
-
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+-->
 
+## My Portfolio
+
+Below are some **selected projects** that demonstrate my work in 
+wireless systems, adversarial ML, and software development, 
+along with prototypes aimed at practical applications.
+
+---
+
+## Selected Projects
+
+1. **Deep Dream with VGG16 and DenseNet121** <br>
+   *(Mar 2023 – Mar 2023)*  
+   - Applied the Deep Dream algorithm with VGG16 and DenseNet121 models to enhance and visualize features in an image of a monkey. 
+   - Implemented creative adaptations by guiding the algorithm with images of bananas and cherries for unique, surreal visual effects.
+
+2. **Audio-Effects-Generator** <br>
+   *(Aug 2022 – Dec 2022)*  
+   - Developed audio effects using input audio processed through a FRDM-K64 board. 
+   - Achieved effects like ECHO, REVERB, SLAPBACK, PANNING, and CHORUS. 
+   - Utilized Wolfson Pi Audio Card, Keil MDK-ARM, and MATLAB Simulink. 
+   - Aimed to extend the project for wireless and IoT applications.
+
+3. **Self Supervised Contrastive Learning in PyTorch** <br>
+   *(Oct 2022 – Nov 2022)*  
+   - Created a self-supervised learning model for 3D shape representation using the ShapeNet dataset’s point clouds. 
+   - Employed PyTorch, PyTorch Geometric, and DynamicEdgeConv, with InfoNCE/NT-Xent loss for contrastive learning. 
+   - Achieved effective representation and separation of entities in the embedding space.
+
+4. **End-to-End Deep Learning for Potato Blight Disease Classification** <br>
+   *(Dec 2021 – Apr 2022)*  
+   - Developed a web/mobile application to diagnose potato blight disease using deep learning techniques and convolutional neural networks.
+
+5. **RyDE** <br>
+   *(Jan 2019 – Jun 2019)*  
+   - Created a ride-sharing app featuring live GPS location, integrated rider and user apps. 
+   - Utilized Firebase database, Java, and Android Studio to build a functional real-time ride service.
+
+6. **Smart Wheelchair for Disabled People** <br>
+   *(Jan 2018 – May 2018)*  
+   - Conceptualized a cost-effective smart wheelchair controllable through hand gestures.
+   - Aimed at increasing mobility for disabled individuals.
+
+---
+
+### Additional Highlights
+
+- **Ongoing Research:** [mmWave-based Adversarial Attacks & Defenses](/publications/#ongoing-research-works)  
+- **Teaching**: [Graduate Teaching Assistant at Purdue Indianapolis](/teaching/)  
+- **Full CV**: [Detailed academic profile, experiences, & awards](/cv/)
+
+---
+
+<!-- End of static content for the Portfolio page. -->
